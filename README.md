@@ -11,10 +11,11 @@ In this project, I :
 - Developed an interactive **Power BI dashboard** to provide actionable insights for improving market strategy and optimizing operations.  
 
 ## Dataset 
-1. dim_campaigns : contains promotional campaign-related data
-2. dim_products : contains product related data
-3. dim_stores : contains store related data
-4. fact_events : contains Products selling and pricing related data for each  campaign . 
+1. customers : contains customers related data
+2. date : contains date related data
+3. markets : contains city and their zone related data
+4. products : contains product related data
+5. transactions : contains Products pricing ,selling and Profit related data .  
 
 ## Technologies Used  
 - **MySQL** : Database creation .  
